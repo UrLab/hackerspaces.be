@@ -5,3 +5,10 @@ body {
 footer {
 	text-align: center;
 }
+
+.embbed-image {
+    border: 5px solid #AAA;
+    height: 200px;
+    float: left;
+    margin: 15px;
+}
